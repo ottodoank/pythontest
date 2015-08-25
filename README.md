@@ -1,0 +1,2 @@
+# pythontest
+ini adalah python
